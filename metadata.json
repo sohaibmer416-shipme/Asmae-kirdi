@@ -1,0 +1,7 @@
+{
+  "name": "PC Architect: Voice Identification",
+  "description": "A 3D educational game where users identify and classify PC components using voice commands. Features real-time AI evaluation of spoken answers, rotating 3D models, and a score/heart system.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
