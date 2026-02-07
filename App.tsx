@@ -315,7 +315,7 @@ const App: React.FC = () => {
 
         {/* Credits */}
         <div className="absolute bottom-6 left-1/2 -translate-x-1/2 pointer-events-auto text-zinc-500 text-xl tracking-[0.1em] opacity-80 fiesta-font hover:text-cyan-400 transition-colors cursor-default drop-shadow-sm">
-          brought to you by ASMAE KIRDI
+          brought to you by MOHAMED ZOUAOUI
         </div>
       </div>
 
